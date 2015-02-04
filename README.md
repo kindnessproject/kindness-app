@@ -1,0 +1,2 @@
+# kindness-app
+The Kindness project is a 365-day project where you have to do one nice thing everyday. The challenges vary; most are for others, some are for yourself, and many are open to interpretation. Some of the challenges take part in a recurring theme that appears throughout the year. The project is available in three types of media: a book/pdf, a calendar, and an app. The Kindness Project is part of the MYP Personal Project.
